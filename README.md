@@ -1,3 +1,3 @@
 # Omega Bot
 
-This is an all-in-one discord bot for developers.
+Omega Bot is the all-in-one discord bot for Developers.

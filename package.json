@@ -1,7 +1,7 @@
 {
   "name": "omega-bot",
   "version": "1.0.0",
-  "description": "This is an all-in-one discord bot for developers.",
+  "description": "Omega Bot is the all-in-one discord bot for Developers.",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon index.js",
